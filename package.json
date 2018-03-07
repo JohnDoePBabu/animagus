@@ -4,7 +4,8 @@
   "description": "List your favorite anime and manga",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "start": "PORT=3008 node app/bin/www"
   },
   "repository": {
     "type": "git",
