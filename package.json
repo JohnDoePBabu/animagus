@@ -1,0 +1,31 @@
+{
+  "name": "animangus",
+  "version": "1.0.0",
+  "description": "List your favorite anime and manga",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnDoePBabu/animagus.git"
+  },
+  "keywords": [
+    "anime",
+    "nodejs",
+    "docker"
+  ],
+  "author": "Shreyas P Babu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnDoePBabu/animagus/issues"
+  },
+  "homepage": "https://github.com/JohnDoePBabu/animagus#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "jade": "^1.11.0",
+    "morgan": "^1.9.0"
+  }
+}
